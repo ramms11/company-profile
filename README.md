@@ -1,4 +1,4 @@
-# Apricot CMS - Untuk Asuransi Website
+# Apricot CMS - Asuransi Website/ Company Profile
 
 Apricot CMS adalah CMS yang dibuat menggunakan Codeigniter 3.
 CMS ini dibuat untuk mempermudah developer-developer dalam mengembangkan dan membuat website blogging, berita, company profile, dan fotografi.
